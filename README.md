@@ -4,12 +4,12 @@ Photo Auto-Organization System
 ■ フォルダ構成（変更しないでください）
 ダウンロードしたフォルダは、そのままの構成で使用してください。
 
-qr-organized-main/
-├── main.py
-├── config.json
-├── qr-generator.html
-├── qrcode.min.js
-├── README.md
+qr-organized-main/ \
+├── main.py \
+├── config.json \
+├── qr-generator.html \
+├── qrcode.min.js \
+├── README.md \
 ※ ファイルの場所を変更しないでください。
 
 ■ 初回セットアップ（最初の1回だけ）
